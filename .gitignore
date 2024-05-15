@@ -4,3 +4,7 @@ venv
 build
 dist
 gui.spec
+__pycache__/
+scrapers/__pycache__/
+products.html
+products.csv
