@@ -2,6 +2,8 @@
 
 This project scrapes product sales from multiple e-commerce websites and generates an interactive HTML file with the product information.
 
+![](https://github.com/javicrcls/freak-scraper/blob/main/resources/example.png)
+
 ## Supported Stores
 
 - Mathom
@@ -39,6 +41,8 @@ python -m playwright install
 ```
 
 ## Usage
+
+![](https://github.com/javicrcls/freak-scraper/blob/main/resources/progress.gif)
 
 To run the script and scrape all supported stores:
 ```bash
