@@ -1,6 +1,11 @@
 # 🛒 Freak Sales Scraping Project
 
-This project scrapes product sales from multiple e-commerce websites and generates an interactive HTML file with the product information.
+This project scrapes product sales and outlets from my favourite stores and generates an interactive HTML file with where you can see:
+- Product
+- Sale Price
+- Old Price
+- Saving %
+- Link to buy
 
 ![](https://github.com/javicrcls/freak-scraper/blob/main/resources/example.png)
 
