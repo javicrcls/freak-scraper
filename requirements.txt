@@ -1,2 +1,5 @@
 playwright
 requests
+PyQt5
+pyinstaller
+tqdm

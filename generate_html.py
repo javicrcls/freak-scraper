@@ -39,7 +39,7 @@ def generate_html(results):
         </style>
     </head>
     <body>
-        <h1>Ofertas</h1>
+        <h1>O U T L E T</h1>
         <table>
             <tr>
                 <th>Imagen</th>
