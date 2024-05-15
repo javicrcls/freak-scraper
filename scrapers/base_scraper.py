@@ -1,4 +1,3 @@
-# scrapers/base_scraper.py
 from abc import ABC, abstractmethod
 
 class BaseScraper(ABC):
@@ -10,5 +9,5 @@ class BaseScraper(ABC):
         pass
 
     @abstractmethod
-    async def scrape_sales_page(self, page, keyword, total_items):
+    async def scrape_sales_page(self, page, keyword, total_items, progress_bar):
         pass
